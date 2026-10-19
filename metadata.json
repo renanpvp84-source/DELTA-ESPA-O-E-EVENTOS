@@ -1,0 +1,6 @@
+{
+  "name": "Delta Espaço e Eventos",
+  "description": "Espaço premium climatizado para eventos, casamentos, aniversários e buffet em Bacabal – MA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
